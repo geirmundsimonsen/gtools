@@ -1,0 +1,12 @@
+[
+	"/audio_interface.scd",
+	"/vstplugins.scd",
+	"/algorithms.scd",
+	"/metronome.scd",
+	"/sample.scd",
+	"/record.scd",
+	"/utils.scd",
+	"/sampleplayer.scd",
+	"/project.scd",
+	"/ui.scd"
+];
